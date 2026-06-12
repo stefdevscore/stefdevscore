@@ -21,8 +21,6 @@ The method stays the same: clarify the problem, map the constraints, compare opt
 | [StefDevs](https://www.stefdevs.com) | A focused practice for technical judgment, research, systems, sourcing, and practical execution. |
 | [Skillmarkdown](https://www.skillmarkdown.com) | Reusable agent skills can become packaged, versioned, installable workflow infrastructure. |
 | [Kunsmatig](https://www.kunsmatig.com) | Sponsored utility distribution can connect sourcing, sponsor logic, local usefulness, and follow-through. |
-| [agentcode](https://github.com/stefdevscore/agentcode) | Codebase context can be made compact, structured, and useful for agent workflows. |
-| [unDraw](https://github.com/stefdevscore/undraw) | Small tools can ship with parity across Rust, JavaScript, Python, and agent-facing skills. |
 
 ## Operating Range
 
