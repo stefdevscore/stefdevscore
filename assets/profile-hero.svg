@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
   <title id="title">StefDevs profile banner</title>
-  <desc id="desc">Dark StefDevs banner using the rune mark with the text Operational intelligence for complex work.</desc>
+  <desc id="desc">Dark StefDevs banner using the rune and eagle marks with the text Operational intelligence for complex work.</desc>
   <defs>
     <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
       <stop offset="0" stop-color="#050505" />
@@ -12,17 +12,11 @@
   <rect width="1200" height="420" rx="28" fill="url(#bg)" />
   <rect x="1" y="1" width="1198" height="418" rx="27" fill="none" stroke="#ffffff" stroke-opacity="0.1" />
 
-  <g transform="translate(70 74)">
-    <rect x="0" y="0" width="112" height="164" rx="20" fill="#ffffff" fill-opacity="0.04" stroke="#ffffff" stroke-opacity="0.14" />
-    <g transform="translate(28 18) scale(0.56)" color="#ffffff">
-      <rect x="48" y="8" width="36" height="22" fill="currentColor" />
-      <rect x="16" y="44" width="40" height="24" fill="currentColor" />
-      <rect x="52" y="84" width="28" height="22" fill="currentColor" />
-      <rect x="14" y="118" width="44" height="26" fill="currentColor" />
-    </g>
+  <g opacity="0.11" transform="translate(735 48) scale(0.33)">
+    <path fill="#ffffff" fill-rule="evenodd" d="M 737.00 684.00 L 709.00 712.00 L 678.00 685.00 L 636.00 804.00 L 707.00 870.00 L 780.00 807.00 Z M 783.00 633.00 L 750.00 674.00 L 792.00 761.00 L 878.00 779.00 Z M 633.00 632.00 L 538.00 779.00 L 624.00 761.00 L 666.00 673.00 Z M 636.00 299.00 L 668.00 323.00 L 625.00 356.00 L 649.00 354.00 L 633.00 438.00 L 709.00 535.00 L 768.00 457.00 L 748.00 404.00 L 751.00 379.00 L 783.00 361.00 L 803.00 362.00 L 815.00 372.00 L 818.00 349.00 L 807.00 333.00 L 776.00 326.00 L 749.00 301.00 Z M 728.00 325.00 L 770.00 327.00 L 743.00 335.00 Z M 1266.00 221.00 L 984.00 341.00 L 932.00 437.00 L 801.00 602.00 L 1109.00 447.00 L 1171.00 362.00 L 989.00 412.00 L 1200.00 324.00 Z M 150.00 221.00 L 216.00 324.00 L 430.00 413.00 L 246.00 362.00 L 306.00 446.00 L 614.00 601.00 L 484.00 436.00 L 434.00 342.00 Z M 28.00 28.00 L 128.00 186.00 L 444.00 335.00 L 499.00 433.00 L 707.00 690.00 L 920.00 430.00 L 971.00 336.00 L 1287.00 186.00 L 1387.00 31.00 L 905.00 259.00 L 847.00 391.00 L 707.00 557.00 L 570.00 392.00 L 511.00 258.00 Z" />
   </g>
 
-  <g opacity="0.06" transform="translate(850 54) scale(1.55)" color="#ffffff">
+  <g transform="translate(84 84) scale(0.58)" color="#ffffff">
     <rect x="48" y="8" width="36" height="22" fill="currentColor" />
     <rect x="16" y="44" width="40" height="24" fill="currentColor" />
     <rect x="52" y="84" width="28" height="22" fill="currentColor" />
@@ -30,8 +24,8 @@
   </g>
 
   <text x="220" y="124" fill="#f7f7f2" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="56" font-weight="800" letter-spacing="0">StefDevs</text>
-  <text x="220" y="178" fill="#f7f7f2" fill-opacity="0.9" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="30" font-weight="650">Operational intelligence</text>
-  <text x="220" y="216" fill="#f7f7f2" fill-opacity="0.9" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="30" font-weight="650">for complex work.</text>
+  <text x="220" y="178" fill="#f4b64a" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="30" font-weight="650">Operational intelligence</text>
+  <text x="220" y="216" fill="#f4b64a" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="30" font-weight="650">for complex work.</text>
   <text x="220" y="256" fill="#d7d7d0" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="20">Think. Decide. Organize. Automate. Source. Execute.</text>
 
   <path d="M220 288 H930" stroke="#ffffff" stroke-opacity="0.2" stroke-width="2" />
@@ -39,18 +33,18 @@
 
   <g transform="translate(220 348)">
     <g fill="none" stroke="#ffffff" stroke-opacity="0.18">
-      <rect x="0" y="0" width="108" height="38" rx="19" />
-      <rect x="124" y="0" width="120" height="38" rx="19" />
-      <rect x="260" y="0" width="112" height="38" rx="19" />
-      <rect x="388" y="0" width="100" height="38" rx="19" />
-      <rect x="504" y="0" width="116" height="38" rx="19" />
+      <rect x="0" y="0" width="112" height="38" rx="19" />
+      <rect x="128" y="0" width="112" height="38" rx="19" />
+      <rect x="256" y="0" width="112" height="38" rx="19" />
+      <rect x="384" y="0" width="112" height="38" rx="19" />
+      <rect x="512" y="0" width="112" height="38" rx="19" />
     </g>
-    <g fill="#f7f7f2" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="15" font-weight="650">
-      <text x="27" y="25">explore</text>
-      <text x="131" y="25">structure</text>
-      <text x="293" y="25">source</text>
-      <text x="420" y="25">move</text>
-      <text x="519" y="25">improve</text>
+    <g fill="#f7f7f2" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="15" font-weight="650" text-anchor="middle">
+      <text x="56" y="25">explore</text>
+      <text x="184" y="25">structure</text>
+      <text x="312" y="25">source</text>
+      <text x="440" y="25">move</text>
+      <text x="568" y="25">improve</text>
     </g>
   </g>
 </svg>
