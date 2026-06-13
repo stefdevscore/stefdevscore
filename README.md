@@ -26,11 +26,10 @@ The method stays the same: clarify the problem, map the constraints, compare opt
 
 ```text
 explore      research ambiguous options, suppliers, tools, markets, and technical paths
-structure    turn scattered information into workflows, decisions, designs, or next actions
-automate     build services, integrations, internal tools, and documentation
-source       compare suppliers, acquisition paths, constraints, and practical risks
-coordinate   keep practical work moving through visible ownership, logistics, and clean handoffs
-improve      leave the system easier to operate than it was before
+acquire      support lawful sourcing, quote gathering, availability checks, and supplier comparison
+grow         shape opportunities with lead research, proposal support, and practical deal preparation
+logisticize  coordinate follow-ups, delivery tracking, vendor updates, documentation, and handoffs
+engineer     build and improve services, integrations, automation, internal tools, and technical documentation
 ```
 
 ## Links
