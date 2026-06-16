@@ -25,11 +25,11 @@ The method stays the same: clarify the problem, map the constraints, compare opt
 ## Operating Range
 
 ```text
-explore      research ambiguous options, suppliers, tools, markets, and technical paths
-acquire      support lawful sourcing, quote gathering, availability checks, and supplier comparison
-grow         shape opportunities with lead research, proposal support, and practical deal preparation
-logisticize  coordinate follow-ups, delivery tracking, vendor updates, documentation, and handoffs
-engineer     build and improve services, integrations, automation, internal tools, and technical documentation
+Explore      research ambiguous options, suppliers, tools, markets, and technical paths
+Acquire      support lawful sourcing, quote gathering, availability checks, and supplier comparison
+Grow         shape opportunities with lead research, proposal support, and practical deal preparation
+Logisticize  coordinate follow-ups, delivery tracking, vendor updates, documentation, and handoffs
+Engineer     build and improve services, integrations, automation, internal tools, and technical documentation
 ```
 
 ## Links

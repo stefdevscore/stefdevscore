@@ -47,11 +47,11 @@
       <rect x="512" y="0" width="112" height="38" rx="19" />
     </g>
     <g fill="#f7f7f2" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="15" font-weight="650" text-anchor="middle">
-      <text x="56" y="25">explore</text>
-      <text x="184" y="25">acquire</text>
-      <text x="312" y="25">grow</text>
-      <text x="440" y="25">logisticize</text>
-      <text x="568" y="25">engineer</text>
+      <text x="56" y="25">Explore</text>
+      <text x="184" y="25">Acquire</text>
+      <text x="312" y="25">Grow</text>
+      <text x="440" y="25">Logisticize</text>
+      <text x="568" y="25">Engineer</text>
     </g>
   </g>
 </svg>
