@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="390" viewBox="0 0 1200 390" role="img" aria-labelledby="title desc">
   <title id="title">StefDevs profile banner</title>
-  <desc id="desc">A restrained dark StefDevs profile banner with the line Cleaner workflows. Clearer operations.</desc>
+  <desc id="desc">A restrained dark StefDevs profile banner for fixing messy workflows before they become expensive problems.</desc>
   <defs>
     <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
       <stop offset="0" stop-color="#050505" />
@@ -33,13 +33,14 @@
     <rect x="13" y="110" width="43" height="25" rx="1" fill="currentColor" />
   </g>
 
-  <text x="210" y="118" fill="#f7f4ea" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="62" font-weight="820" letter-spacing="0">StefDevs</text>
-  <text x="210" y="170" fill="#f2bd55" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="32" font-weight="730" letter-spacing="0">Cleaner workflows. Clearer operations.</text>
-  <text x="210" y="216" fill="#d8d3c5" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="20">Operational intelligence for messy workflows, practical systems,</text>
-  <text x="210" y="247" fill="#d8d3c5" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="20">sourcing decisions, automation, and follow-through.</text>
+  <text x="210" y="106" fill="#f7f4ea" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="62" font-weight="820" letter-spacing="0">StefDevs</text>
+  <text x="210" y="155" fill="#f2bd55" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="30" font-weight="730" letter-spacing="0">Fix messy workflows before they</text>
+  <text x="210" y="191" fill="#f2bd55" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="30" font-weight="730" letter-spacing="0">become expensive problems.</text>
+  <text x="210" y="238" fill="#d8d3c5" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="20">Admin drag, missed follow-ups, spreadsheet risk, supplier decisions,</text>
+  <text x="210" y="268" fill="#d8d3c5" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="20">unclear handoffs, and small systems that need to run better.</text>
 
-  <path d="M210 286 H785" stroke="url(#rule)" stroke-width="2" />
+  <path d="M210 300 H785" stroke="url(#rule)" stroke-width="2" />
 
-  <text x="210" y="326" fill="#9b9588" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" letter-spacing="1.5">CLEAR / LAWFUL / USEFUL / OPERABLE</text>
+  <text x="210" y="335" fill="#9b9588" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" letter-spacing="1.5">SEND ONE WORKFLOW / GET THE SMALLEST USEFUL NEXT STEP</text>
   <path d="M80 354 H1120" stroke="url(#bottom)" stroke-width="1" />
 </svg>

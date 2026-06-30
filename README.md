@@ -1,30 +1,30 @@
 <p align="center">
-  <img src="./assets/profile-hero.svg" alt="StefDevs - Cleaner workflows. Clearer operations." width="100%" />
+  <img src="./assets/profile-hero.svg" alt="StefDevs - Fix messy workflows before they become expensive problems." width="100%" />
 </p>
 
 <p align="center">
-  <a href="https://www.stefdevs.com">Website</a>
-  |
   <a href="https://www.stefdevs.com/ops-check">Free Ops Check</a>
+  |
+  <a href="https://www.stefdevs.com">Website</a>
   |
   <a href="https://www.stefdevs.com/operational-intelligence">Operational Intelligence</a>
   |
   <a href="mailto:core@stefdevs.com">core@stefdevs.com</a>
 </p>
 
-## StefDevs
+## For Messy Workflows
 
-Practical operational intelligence for small teams with messy workflows, unclear handoffs, spreadsheet risk, supplier decisions, and small systems that need to become easier to run.
+StefDevs helps small teams clean up messy workflows before they become expensive problems: admin drag, missed follow-ups, spreadsheet risk, supplier decisions, unclear handoffs, and small internal tools that need to work in the real day to day.
 
-The work is simple to start: send one workflow that feels slow, risky, scattered, or dependent on memory. StefDevs finds the stuck point and recommends the smallest useful next step.
+Start with one workflow. Share what happens today, where it gets stuck, and what a useful result would look like. StefDevs maps the stuck point and returns the smallest useful next action.
 
 <p align="center">
-  <img src="./assets/operating-brief.svg" alt="StefDevs operating pattern: clarify, structure, execute, improve." width="100%" />
+  <img src="./assets/operating-brief.svg" alt="StefDevs Free Ops Check: map the workflow, find the bottleneck, return the next action." width="100%" />
 </p>
 
-## Focus
+## Public Work
 
-StefDevs is the main operating brand. Skillmarkdown and Kunsmatig are public proof signals, not competing priorities.
+StefDevs is the operating brand. Skillmarkdown and Kunsmatig are supporting public work that shows the same practical lens: structure the work, package the useful part, and make it easier to run.
 
 <p align="center">
   <img src="./assets/stefdevs-focus-map.svg" alt="StefDevs as the focus, with Skillmarkdown and Kunsmatig as supporting public work." width="100%" />
@@ -32,6 +32,6 @@ StefDevs is the main operating brand. Skillmarkdown and Kunsmatig are public pro
 
 ## Start
 
-- [Request a Free Ops Check](https://www.stefdevs.com/ops-check)
-- [Read about Operational Intelligence](https://www.stefdevs.com/operational-intelligence)
+- [Request a Free Ops Check](https://www.stefdevs.com/ops-check): send one messy workflow for a practical review.
+- [See improvement areas](https://www.stefdevs.com/operational-intelligence)
 - [Visit stefdevs.com](https://www.stefdevs.com)

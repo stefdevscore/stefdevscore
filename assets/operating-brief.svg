@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="170" viewBox="0 0 1200 170" role="img" aria-labelledby="title desc">
   <title id="title">StefDevs operating strip</title>
-  <desc id="desc">A compact strip showing the StefDevs workflow from one messy workflow to an operable handoff.</desc>
+  <desc id="desc">A compact strip showing the StefDevs Free Ops Check path from one messy workflow to a useful next action.</desc>
   <defs>
     <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
       <stop offset="0" stop-color="#080808" />
@@ -16,8 +16,8 @@
   <rect width="1200" height="170" rx="22" fill="url(#bg)" />
   <rect x="1" y="1" width="1198" height="168" rx="21" fill="none" stroke="#ffffff" stroke-opacity="0.1" />
 
-  <text x="54" y="47" fill="#f2bd55" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" font-weight="760" letter-spacing="1.7">OPERATING PATTERN</text>
-  <text x="54" y="88" fill="#f7f4ea" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="27" font-weight="780">One messy workflow becomes one clear next action.</text>
+  <text x="54" y="47" fill="#f2bd55" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" font-weight="760" letter-spacing="1.7">FREE OPS CHECK</text>
+  <text x="54" y="88" fill="#f7f4ea" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="27" font-weight="780">One messy workflow. One practical next step.</text>
 
   <g transform="translate(56 118)" font-family="Inter, ui-sans-serif, system-ui, sans-serif">
     <path d="M142 10 H314 M428 10 H600 M714 10 H886" stroke="url(#line)" stroke-width="2" />
@@ -25,9 +25,9 @@
     <circle cx="324" cy="10" r="6" fill="#f2bd55" fill-opacity="0.74" />
     <circle cx="610" cy="10" r="6" fill="#f2bd55" fill-opacity="0.58" />
     <circle cx="896" cy="10" r="6" fill="#f2bd55" fill-opacity="0.46" />
-    <text x="26" y="15" fill="#f7f4ea" font-size="15" font-weight="740">Clarify</text>
-    <text x="340" y="15" fill="#f7f4ea" font-size="15" font-weight="740">Structure</text>
-    <text x="626" y="15" fill="#f7f4ea" font-size="15" font-weight="740">Execute</text>
-    <text x="912" y="15" fill="#f7f4ea" font-size="15" font-weight="740">Improve</text>
+    <text x="26" y="15" fill="#f7f4ea" font-size="15" font-weight="740">Map</text>
+    <text x="340" y="15" fill="#f7f4ea" font-size="15" font-weight="740">Bottleneck</text>
+    <text x="626" y="15" fill="#f7f4ea" font-size="15" font-weight="740">Fix</text>
+    <text x="912" y="15" fill="#f7f4ea" font-size="15" font-weight="740">Next action</text>
   </g>
 </svg>
