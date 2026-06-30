@@ -1,37 +1,71 @@
 <p align="center">
-  <img src="./assets/profile-hero.svg" alt="StefDevs - operational intelligence for complex work" width="100%" />
+  <img src="./assets/profile-hero.svg" alt="StefDevs - Cleaner workflows. Clearer operations." width="100%" />
 </p>
 
-## Founder of StefDevs
+<p align="center">
+  <a href="https://www.stefdevs.com">Website</a>
+  |
+  <a href="https://www.stefdevs.com/ops-check">Free Ops Check</a>
+  |
+  <a href="https://www.stefdevs.com/operational-intelligence">Operational Intelligence</a>
+  |
+  <a href="https://www.linkedin.com/in/stefdevs/">LinkedIn</a>
+  |
+  <a href="mailto:core@stefdevs.com">core@stefdevs.com</a>
+</p>
 
-StefDevs improves how businesses think, decide, organize, automate, source, and execute.
+## StefDevs
 
-My foundation is backend engineering: TypeScript, AWS, integrations, automation, distributed teams, failure analysis, and systems that need to keep moving while requirements are still unclear.
+StefDevs is the operating focus: practical operational intelligence for small teams with messy workflows, unclear handoffs, spreadsheet risk, supplier decisions, CRM follow-up gaps, and small systems that need to become easier to run.
 
-StefDevs exists for complex work that does not fit neatly into one box. Sometimes that means software. Sometimes it means supplier research, workflow design, documentation, automation, logistics, coordination, growth support, or making the right refusal before a bad path becomes expensive.
+I help turn unclear technical, operational, and commercial problems into researched options, clear decisions, practical systems, and finished work. The background is backend engineering, integrations, automation, distributed team execution, sourcing judgment, coordination, logistics, and hands-on follow-through.
 
-The method stays the same: clarify the problem, map the constraints, compare options, define the next action, and leave behind something easier to operate.
+The usual starting point is simple: one workflow feels slow, risky, scattered, or too dependent on memory. StefDevs maps the real work, identifies the bottleneck, compares the useful options, and recommends the smallest responsible fix.
+
+<p align="center">
+  <img src="./assets/operating-brief.svg" alt="StefDevs operating brief: clarify the drag, compare options, build the fix, and leave it operable." width="100%" />
+</p>
+
+## What StefDevs Improves
+
+| Area | Practical focus |
+| --- | --- |
+| Workflow cleanup | Reduce repeated admin, unclear ownership, missed follow-ups, and handoffs that depend on memory. |
+| Operational intelligence | Find where work gets stuck and turn that into a process, tracker, automation, integration, internal tool, or clear no. |
+| Sourcing and decisions | Compare suppliers, tools, acquisition paths, constraints, and tradeoffs before committing. |
+| Small systems | Build only what removes the bottleneck: internal tools, integrations, backend services, automations, documentation, or operating checklists. |
+| Follow-through | Keep work moving through written decisions, visible responsibilities, clean handoffs, and practical next actions. |
+
+## Proof Signals
+
+StefDevs is not one project among peers. It is the main brand and operating lens. Public side projects are useful because they show the same pattern in narrower contexts: structure the unclear work, package the useful system, and make the handoff operable.
+
+<p align="center">
+  <img src="./assets/stefdevs-focus-map.svg" alt="StefDevs as the operating focus, with Skillmarkdown and Kunsmatig as proof signals." width="100%" />
+</p>
+
+| Work | Relationship to StefDevs | What it shows |
+| --- | --- | --- |
+| [StefDevs](https://www.stefdevs.com) | Main operating brand. | Cleaner workflows, clearer operations, practical systems, and responsible execution. |
+| [Skillmarkdown](https://www.skillmarkdown.com) | AI-workflow byproduct. | Ambiguous knowledge work can become packaged, versioned, reusable operating assets. |
+| [Kunsmatig](https://www.kunsmatig.com) | Sourcing/distribution byproduct. | Useful tools can be packaged, sponsored, and delivered without a heavy software rollout. |
+
+## Operating Standard
 
 **Clear. Lawful. Useful. Operable.**
 
-## Current Work
-
-| Project | What it proves |
-| --- | --- |
-| [StefDevs](https://www.stefdevs.com) | Operational intelligence for software, operations, sourcing, automation, logistics, and growth execution. |
-| [Skillmarkdown](https://www.skillmarkdown.com) | Reusable agent skills can become packaged, versioned, installable workflow infrastructure. |
-| [Kunsmatig](https://www.kunsmatig.com) | Sponsored utility distribution can connect sourcing, sponsor logic, local usefulness, and follow-through. |
-
-## Operating Range
+Good work should leave people with clearer decisions, responsible boundaries, practical value, and a handoff they can actually run. A clear no is part of the work when a request is not lawful, useful, or responsible to execute.
 
 ```text
-Explore      research ambiguous options, suppliers, tools, markets, and technical paths
-Acquire      support lawful sourcing, quote gathering, availability checks, and supplier comparison
-Grow         shape opportunities with lead research, proposal support, and practical deal preparation
-Logisticize  coordinate follow-ups, delivery tracking, vendor updates, documentation, and handoffs
-Engineer     build and improve services, integrations, automation, internal tools, and technical documentation
+Clarify       understand the real workflow, constraints, risk, and useful outcome
+Structure     compare options, responsibilities, suppliers, systems, and tradeoffs
+Execute       build, source, coordinate, automate, document, or deliver the useful fix
+Improve       leave behind a cleaner process, system, handoff, or next-step decision
 ```
 
-## Links
+## Start Here
 
-[Website](https://www.stefdevs.com) | [Projects](https://www.stefdevs.com/projects) | [LinkedIn](https://www.linkedin.com/in/stefdevs/) | [Email](mailto:core@stefdevs.com)
+- Website: [stefdevs.com](https://www.stefdevs.com)
+- Free workflow review: [Request Free Ops Check](https://www.stefdevs.com/ops-check)
+- Operational Intelligence: [Improve how you work](https://www.stefdevs.com/operational-intelligence)
+- Email: [core@stefdevs.com](mailto:core@stefdevs.com)
